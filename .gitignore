@@ -1,0 +1,36 @@
+# Python cache / bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Data and output files
+energy_data_*.json
+preprocessed_energy_data.json
+*.png
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# OS metadata
+Thumbs.db
